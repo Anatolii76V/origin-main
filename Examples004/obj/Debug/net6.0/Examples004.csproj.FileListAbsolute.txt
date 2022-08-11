@@ -1,0 +1,15 @@
+/home/tolik/GeekBrains/C#/Examples004/bin/Debug/net6.0/Examples004
+/home/tolik/GeekBrains/C#/Examples004/bin/Debug/net6.0/Examples004.deps.json
+/home/tolik/GeekBrains/C#/Examples004/bin/Debug/net6.0/Examples004.runtimeconfig.json
+/home/tolik/GeekBrains/C#/Examples004/bin/Debug/net6.0/Examples004.dll
+/home/tolik/GeekBrains/C#/Examples004/bin/Debug/net6.0/Examples004.pdb
+/home/tolik/GeekBrains/C#/Examples004/obj/Debug/net6.0/Examples004.csproj.AssemblyReference.cache
+/home/tolik/GeekBrains/C#/Examples004/obj/Debug/net6.0/Examples004.GeneratedMSBuildEditorConfig.editorconfig
+/home/tolik/GeekBrains/C#/Examples004/obj/Debug/net6.0/Examples004.AssemblyInfoInputs.cache
+/home/tolik/GeekBrains/C#/Examples004/obj/Debug/net6.0/Examples004.AssemblyInfo.cs
+/home/tolik/GeekBrains/C#/Examples004/obj/Debug/net6.0/Examples004.csproj.CoreCompileInputs.cache
+/home/tolik/GeekBrains/C#/Examples004/obj/Debug/net6.0/Examples004.dll
+/home/tolik/GeekBrains/C#/Examples004/obj/Debug/net6.0/refint/Examples004.dll
+/home/tolik/GeekBrains/C#/Examples004/obj/Debug/net6.0/Examples004.pdb
+/home/tolik/GeekBrains/C#/Examples004/obj/Debug/net6.0/Examples004.genruntimeconfig.cache
+/home/tolik/GeekBrains/C#/Examples004/obj/Debug/net6.0/ref/Examples004.dll
