@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "lzTKeIKZo45BHt5ZdPLvzC/xsg3NVo/XqGVJkmzY3l0WnTz9Orweh6puQwmYXNFnG7AKfFEUsYP8pty15zwAHg==",
+  "success": true,
+  "projectFilePath": "/home/tolik/GeekBrains/C#/Examples006/Examples006.csproj",
+  "expectedPackageFiles": [
+    "/home/tolik/.nuget/packages/microsoft.netcore.app.ref/6.0.7/microsoft.netcore.app.ref.6.0.7.nupkg.sha512",
+    "/home/tolik/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.7/microsoft.aspnetcore.app.ref.6.0.7.nupkg.sha512",
+    "/home/tolik/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.7/microsoft.netcore.app.host.linux-x64.6.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
